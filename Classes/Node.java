@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Node class.
 // Author: Asaf Emin Gündüz
-// ID: 15802094188
-// Section: 1
-// Assignment: 1
 // Description: This class holds the every needed information about
 //              each tile in our map.
 //-----------------------------------------------------
