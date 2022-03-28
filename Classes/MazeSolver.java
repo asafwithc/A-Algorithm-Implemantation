@@ -5,9 +5,6 @@ import java.util.List;
 //-----------------------------------------------------
 // Title: Algorithm implementation class
 // Author: Asaf Emin Gündüz
-// ID: 15802094188
-// Section: 1
-// Assignment: 1
 // Description: This class implements A* algorithm to the given map.
 //              With A* algorithm, we can find the shortest path to the
 //              given coordinates.
