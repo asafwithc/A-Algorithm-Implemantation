@@ -4,7 +4,7 @@
 
 It simply is a optimized path-finding algorithm. I used it on my homework to find treasures in given map.
 
-## How It Works?
+## How Does It Work?
 
 What A* Search Algorithm does is that at each step it picks the node according to a value-‘f’ which is 
 a parameter equal to the sum of two other parameters – ‘g’ and ‘h’. At each step it picks the 
