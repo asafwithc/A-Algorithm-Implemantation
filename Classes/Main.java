@@ -6,9 +6,6 @@ import java.util.*;
 //-----------------------------------------------------
 // Title: Main class.
 // Author: Asaf Emin Gündüz
-// ID: 15802094188
-// Section: 1
-// Assignment: 1
 // Description: Initializes maze.
 //              Finds all Es on the maze.
 //              Finds paths to those Es.
