@@ -1,4 +1,4 @@
-# Astar-Algorithm-Implemantation
+# Astar-Algorithm-Implementation
 
 ## What Is A* Algorithm?
 
